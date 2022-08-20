@@ -1,0 +1,2 @@
+# ML_MNIST
+This project/notebook implements very basic ML algorithms. Its also a mix of two out of the five projects that I did in the EDX MIT MOOC( link text). Most of the helper functions and the basic structure were given in the base project. The idea behind converting this to a notebook was to make it more organised, readable and runnable off the shelf.  One more reason behind making this notebook was to present the ML related helper functions more explicitly in one runnable format.
